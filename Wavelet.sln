@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wavelet", "Wavelet\Wavelet.csproj", "{1A642184-56A1-40C8-9AB4-BAFB9101A0EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A642184-56A1-40C8-9AB4-BAFB9101A0EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A642184-56A1-40C8-9AB4-BAFB9101A0EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A642184-56A1-40C8-9AB4-BAFB9101A0EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A642184-56A1-40C8-9AB4-BAFB9101A0EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

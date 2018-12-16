@@ -1,0 +1,6 @@
+/Users/nikitagrecuhin/RiderProjects/Wavelet/Wavelet/bin/Debug/Wavelet.exe
+/Users/nikitagrecuhin/RiderProjects/Wavelet/Wavelet/bin/Debug/Wavelet.pdb
+/Users/nikitagrecuhin/RiderProjects/Wavelet/Wavelet/obj/Debug/Wavelet.csprojAssemblyReference.cache
+/Users/nikitagrecuhin/RiderProjects/Wavelet/Wavelet/obj/Debug/Wavelet.csproj.CoreCompileInputs.cache
+/Users/nikitagrecuhin/RiderProjects/Wavelet/Wavelet/obj/Debug/Wavelet.exe
+/Users/nikitagrecuhin/RiderProjects/Wavelet/Wavelet/obj/Debug/Wavelet.pdb
